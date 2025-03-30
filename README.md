@@ -22,6 +22,6 @@ Je vais utiliser des textes descriptifs (biographies, dialogues, résumés…) t
 
 Sur le site https://stardewvalleywiki.com, qui regroupe des informations sur le jeu Stardew Valley.
 
-## Sont-elles libres d'accès ?
+## Sont-elles libres d'accès ?
 
 Oui, le site est librement accessible et fonctionne sous une licence Creative Commons.

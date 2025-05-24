@@ -28,8 +28,6 @@ Les données sources sont issues du site [stardewvalleywiki.com](https://stardew
 
 > Seules quelques pages HTML et fichiers JSON d’exemple sont fournies dans `data/` pour éviter une surcharge du dépôt.
 
-Sur le site https://stardewvalleywiki.com, qui regroupe des informations sur le jeu Stardew Valley.
-
 ## Sont-elles libres d'accès ?
 
 Le site Stardew Valley Wiki est librement accessible et publie son contenu sous licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0.

@@ -1,0 +1,160 @@
+{
+  "title": "abigail",
+  "gifts": {
+    "love": [
+      {
+        "name": "Amethyst",
+        "description": "A purple variant of quartz.",
+        "source": "Mining"
+      },
+      {
+        "name": "Banana Pudding",
+        "description": "A creamy dessert with a wonderful tropical flavor.",
+        "source": "Cooking"
+      },
+      {
+        "name": "Blackberry Cobbler",
+        "description": "There's nothing quite like it.",
+        "source": "Cooking"
+      },
+      {
+        "name": "Chocolate Cake",
+        "description": "Rich and moist with a thick fudge icing.",
+        "source": "Cooking"
+      },
+      {
+        "name": "Monster Compendium",
+        "description": "Monsters have a small chance to drop double loot.",
+        "source": "Bookseller , Monsters"
+      },
+      {
+        "name": "Pufferfish",
+        "description": "Inflates when threatened.",
+        "source": "Fishing"
+      },
+      {
+        "name": "Pumpkin",
+        "description": "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.",
+        "source": "Farming"
+      },
+      {
+        "name": "Spicy Eel",
+        "description": "It's really spicy! Be careful.",
+        "source": "Cooking"
+      }
+    ],
+    "like": [
+      {
+        "name": "Ancient Sword",
+        "description": "It's the remains of an ancient sword. Most of the blade has turned to rust, but the hilt is very finely crafted.",
+        "source": "Artifacts"
+      },
+      {
+        "name": "Basilisk Paw",
+        "description": "You are immune to debuffs.",
+        "source": "Trinkets"
+      },
+      {
+        "name": "Bone Flute",
+        "description": "It's a prehistoric wind instrument carved from an animal's bone. It produces an eerie tone.",
+        "source": "Artifacts"
+      },
+      {
+        "name": "Combat Quarterly",
+        "description": "Read this to gain some combat experience.",
+        "source": "Books"
+      },
+      {
+        "name": "Quartz",
+        "description": "A clear crystal commonly found in caves and mines.",
+        "source": "Foraging - The Mines"
+      }
+    ],
+    "neutral": [
+      {
+        "name": "Chanterelle",
+        "description": "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Common Mushroom",
+        "description": "Slightly nutty, with good texture.",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Daffodil",
+        "description": "A traditional spring flower that makes a nice gift.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Dandelion",
+        "description": "Not the prettiest flower, but the leaves make a good salad.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Ginger",
+        "description": "This sharp, spicy root is said to increase vitality.",
+        "source": "Foraging - Ginger Island"
+      },
+      {
+        "name": "Hazelnut",
+        "description": "That's one big hazelnut!",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Leek",
+        "description": "A tasty relative of the onion.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Magma Cap",
+        "description": "A very rare mushroom that lives next to pools of lava.",
+        "source": "Foraging - Volcano Dungeon"
+      },
+      {
+        "name": "Morel",
+        "description": "Sought after for its unique nutty flavor.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Purple Mushroom",
+        "description": "A rare mushroom found deep in caves.",
+        "source": "Foraging - The Mines"
+      },
+      {
+        "name": "Snow Yam",
+        "description": "This little yam was hiding beneath the snow.",
+        "source": "Foraging - Winter"
+      },
+      {
+        "name": "Winter Root",
+        "description": "A starchy tuber.",
+        "source": "Foraging - Winter"
+      }
+    ],
+    "dislike": [
+      {
+        "name": "Sugar",
+        "description": "Adds sweetness to pastries and candies. Too much can be unhealthy.",
+        "source": "Pierre's General Store , Mill"
+      },
+      {
+        "name": "Wild Horseradish",
+        "description": "A spicy root found in the spring.",
+        "source": "Foraging - Spring"
+      }
+    ],
+    "hate": [
+      {
+        "name": "Clay",
+        "description": "Used in crafting and construction.",
+        "source": "Tilling"
+      },
+      {
+        "name": "Holly",
+        "description": "The leaves and bright red berries make a popular winter decoration.",
+        "source": "Foraging - Winter"
+      }
+    ]
+  }
+}

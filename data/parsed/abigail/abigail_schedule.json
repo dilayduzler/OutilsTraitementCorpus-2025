@@ -1,0 +1,1263 @@
+{
+  "title": "abigail",
+  "schedule": [
+    {
+      "label": "Spring → Spring 4",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "12:30 PM",
+          "location": "Leaves her room to go to the clinic for her annual check-up."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Leaves the waiting room and enters the exam room of the clinic."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves the clinic and goes home back to her room."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Spring 15 (Bus Service Restored)",
+      "entries": [
+        {
+          "time": "10:10 AM",
+          "location": "Boards the bus to Calico Desert to attend the Desert Festival."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Stands at the cliffside west of the cactus stand."
+        },
+        {
+          "time": "1:30 AM",
+          "location": "Starts walking back to the bus."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Desert Festival (As Vendor)",
+      "entries": [
+        {
+          "time": "11:10 AM",
+          "location": "Boards the bus to Calico Desert."
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Arrives at her booth."
+        },
+        {
+          "time": "12:00 AM",
+          "location": "Leaves booth and boards bus back to the Valley."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Spring 6 and 16",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Goes to the Mountain, standing on the southwest corner of the lake, playing the flute."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home to go to bed."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Spring 11 and 25 (No player has 6 hearts with Sebastian or Abigail)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In bed."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves Pierre's store."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Arrives in Sebastian’s room."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Leaves Sebastian’s room."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Returns home."
+        },
+        {
+          "time": "6:50 PM",
+          "location": "Back in room."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Spring 11 and 25",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Rain (Option 1)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves her room to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to the kitchen."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Returns to her room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Rain (Option 2)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Leaving the house to go to the Stardrop Saloon."
+        },
+        {
+          "time": "2:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Wednesday",
+      "entries": [
+        {
+          "time": "10:00 AM",
+          "location": "Leaves home to go to Museum."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Inside Museum library looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Walks to the Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "location": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Friday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaving home to go to the Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Sunday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Near Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Regular Schedule",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Green Rain (Year 1)",
+      "entries": [
+        {
+          "time": "All day",
+          "location": "In the living room."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Summer 6 and 16",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Goes to the Mountain, standing on the southwest corner of the lake, playing the flute."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home to go to bed."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Summer 11 and 25 (No player has 6 hearts with Sebastian or Abigail)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In bed."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves Pierre's store."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Arrives in Sebastian’s room."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Leaves Sebastian’s room."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Returns home."
+        },
+        {
+          "time": "6:50 PM",
+          "location": "Back in room."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Summer 11 and 25",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Rain (Option 1)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves her room to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to the kitchen."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Returns to her room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Rain (Option 2)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Leaving the house to go to the Stardrop Saloon."
+        },
+        {
+          "time": "2:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Wednesday",
+      "entries": [
+        {
+          "time": "10:00 AM",
+          "location": "Leaves home to go to the library."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Inside library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Walks to the Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "location": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Friday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaving home to go to the the Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Sunday",
+      "entries": [
+        {
+          "time": "10:30 AM",
+          "location": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves home, walks to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Standing in front of the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Regular Schedule",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves home, walks to the Train Platform."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Waiting in front of the Train Platform."
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Walks to the lake east of the Carpenter's Shop."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Standing by the Mountain lake east of the Carpenter's Shop."
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Arrives home."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Plays video games."
+        },
+        {
+          "time": "8:10 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Fall 6 and 16",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Goes to the Mountain, standing on the southwest corner of the lake, playing the flute."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home to go to bed."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Fall 11 and 25 (No player has 6 hearts with Sebastian or Abigail)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In bed."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves Pierre's store."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Arrives in Sebastian’s room."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Leaves Sebastian’s room."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Returns home."
+        },
+        {
+          "time": "6:50 PM",
+          "location": "Back in room."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Fall 11 and 25",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Rain (Option 1)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves her room to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to the kitchen."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Returns to her room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Rain (Option 2)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Leaving the house to go to the Stardrop Saloon."
+        },
+        {
+          "time": "2:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Monday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaving home to go to the Beach."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Standing at the end of long pier to the left of the Fish Shop."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Arrives home and goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Wednesday",
+      "entries": [
+        {
+          "time": "10:30 AM",
+          "location": "Leaves home to go to library."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Inside library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Walks to the Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "location": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Friday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaving Pierre's General Store to go to the Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Sunday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Near the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Regular Schedule",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaving the house to go to stand at Bus Stop."
+        },
+        {
+          "time": "2:20 PM",
+          "location": "Standing at Bus Stop."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Winter 6 and 16",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Goes to the Mountain, standing on the southwest corner of the lake, playing the flute."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home to go to bed."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Winter 11 and 25 (No player has 6 hearts with Sebastian or Abigail)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In bed."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves Pierre's store."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Arrives in Sebastian’s room."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Leaves Sebastian’s room."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Returns home."
+        },
+        {
+          "time": "6:50 PM",
+          "location": "Back in room."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Winter 11 and 25",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves the kitchen to stand in Pierre's store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the house to go to stand on bridge near JojaMart."
+        },
+        {
+          "time": "1:30 PM",
+          "location": "Standing on the bridge near JojaMart."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "5:20 PM",
+          "location": "In her room, playing video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Winter 15",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Walking to the Carpenter's Shop. Stands next to the counter."
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Walks to beach to attend Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "location": "Back at home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Rain (Option 1)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves her room to stand in Pierre's General Store."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to the kitchen."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Returns to her room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Rain (Option 2)",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "2:00 PM",
+          "location": "Leaving the house to go to the Stardrop Saloon."
+        },
+        {
+          "time": "2:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Wednesday",
+      "entries": [
+        {
+          "time": "10:00 AM",
+          "location": "Leaves home to go to the library."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Inside the library, looking at books."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Walks to the Graveyard."
+        },
+        {
+          "time": "7:00 PM",
+          "location": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:40 PM",
+          "location": "Arrives at home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Friday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Leaves the kitchen to stand in Pierre's General Store."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaving Pierre's General Store to go to the Stardrop Saloon."
+        },
+        {
+          "time": "3:50 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "9:40 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Sunday",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "In her room."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Leaves her room to go into Caroline and Pierre's room."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaving home to go to the Wizard's Tower."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Near the Wizard's Tower in Cindersap Forest."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Heads home."
+        },
+        {
+          "time": "10:30 PM",
+          "location": "Arrives home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Regular Schedule",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaving her room to go to the kitchen."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Walking to the Carpenter's Shop. Stands next to the counter."
+        },
+        {
+          "time": "2:30 PM",
+          "location": "Heads back home and plays video games."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Spring 15 (Bus Service Restored)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves home to go to the Desert Festival and stand north of the fishing pond."
+        },
+        {
+          "time": "1:30 AM",
+          "location": "Returns home."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Green Rain (Year 1)",
+      "entries": [
+        {
+          "time": "6:10 AM",
+          "location": "Walks to her parent's living room."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Monday",
+      "entries": [
+        {
+          "time": "6:00 AM",
+          "location": "At home, in the kitchen."
+        },
+        {
+          "time": "8:30 AM",
+          "location": "Leaves home to go to Pierre's General Store."
+        },
+        {
+          "time": "9:30 AM",
+          "location": "Arrives at Pierre's General Store, stands by the counter near Pierre."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves Pierre's General Store, walking to the Graveyard."
+        },
+        {
+          "time": "1:40 PM",
+          "location": "Standing in front of Mona's grave."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Leaves the Graveyard, heading to the Stardrop Saloon."
+        },
+        {
+          "time": "5:30 PM",
+          "location": "Arrives at the Stardrop Saloon, heads to the arcade."
+        },
+        {
+          "time": "5:40 PM",
+          "location": "Begins playing Journey of the Prairie King."
+        },
+        {
+          "time": "8:30 PM",
+          "location": "Stops playing Journey of the Prairie King, starts walking home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "At home in bed."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Friday",
+      "entries": [
+        {
+          "time": "6:00 AM",
+          "location": "At home."
+        },
+        {
+          "time": "8:30 AM",
+          "location": "Heads to Pierre's General Store and stands in the kitchen."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Walking to the Mountain."
+        },
+        {
+          "time": "11:40 AM",
+          "location": "West side of the Mountain Lake."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Walking to the Stardrop Saloon."
+        },
+        {
+          "time": "5:30 PM",
+          "location": "In the Stardrop Saloon, sitting on a sofa in the arcade."
+        },
+        {
+          "time": "8:30 PM",
+          "location": "Walking home."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Arrives home."
+        },
+        {
+          "time": "10:30 PM",
+          "location": "At home in bed."
+        }
+      ]
+    }
+  ]
+}

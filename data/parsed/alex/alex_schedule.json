@@ -1,0 +1,601 @@
+{
+  "title": "alex",
+  "schedule": [
+    {
+      "label": "Spring → Spring 15",
+      "entries": [
+        {
+          "time": "7:50 AM",
+          "location": "Leaves his house to stand under the tree outside."
+        },
+        {
+          "time": "10:20 AM",
+          "location": "Boards the bus to Calico Desert to attend the Desert Festival."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Stands by the chef stand."
+        },
+        {
+          "time": "12:50 AM",
+          "location": "Boards bus back to the Valley."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Desert Festival (As Vendor)",
+      "entries": [
+        {
+          "time": "11:10 AM",
+          "location": "Boards the bus to Calico Desert."
+        },
+        {
+          "time": "11:30 AM",
+          "location": "Arrives at his booth."
+        },
+        {
+          "time": "12:00 AM",
+          "location": "Leaves booth and boards bus back to the Valley."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Rain",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves his room to go stand outside by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Wednesday (No player has 6 hearts with Haley or Alex)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Sunday (Alex's 14 heart event seen)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes inside of his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Spring → Regular Schedule",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Leaves the tree to go back to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves his room to go stand outside by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Green Rain (Year 1)",
+      "entries": [
+        {
+          "time": "All day",
+          "location": "In the kitchen."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Summer 16",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "10:30 AM",
+          "location": "Goes to clinic."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "In clinic waiting room."
+        },
+        {
+          "time": "1:40 PM",
+          "location": "Clinic examination room."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Returns home for the night."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Rain",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Wednesday (No player has 6 hearts with Haley or Alex)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Sunday (Alex's 14 heart event seen)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes inside of his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Summer → Regular Schedule",
+      "entries": [
+        {
+          "time": "7:50 AM",
+          "location": "Leaves home to go to beach."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Leaves beach to go work at ice cream stand."
+        },
+        {
+          "time": "5:00 PM",
+          "location": "Heads home to lift weights in his room."
+        },
+        {
+          "time": "7:00 PM",
+          "location": "Stands in front entryway of house."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room to stand by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Rain",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room and stands in the entryway."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Wednesday (No player has 6 hearts with Haley or Alex)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Sunday (Alex's 14-heart event seen)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes inside of his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Fall → Regular Schedule",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "1:00 PM",
+          "location": "Goes to his room to lift weights."
+        },
+        {
+          "time": "4:00 PM",
+          "location": "Leaves his house to go stand by the dog pen."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Winter 17",
+      "entries": [
+        {
+          "time": "9:00 AM",
+          "location": "Leaves his house to go to the Spa."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves the gym section of the Spa, heads to the beach to attend the Night Market."
+        },
+        {
+          "time": "12:00 AM",
+          "location": "Leaves the Night Market and returns home."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Wednesday (No player has 6 hearts with Haley or Alex)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "12:00 PM",
+          "location": "Goes to Haley and Emily's house."
+        },
+        {
+          "time": "4:30 PM",
+          "location": "Leaves Haley and Emily's house to go stand by the dog pen."
+        },
+        {
+          "time": "6:40 PM",
+          "location": "Goes back into his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to his room and stands by his dresser."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Sunday (Alex's 14-heart event seen)",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves his room to go outside and stand beneath nearby tree."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes inside of his house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Winter → Regular Schedule",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "In his bedroom."
+        },
+        {
+          "time": "9:00 AM",
+          "location": "Leaves his house to go to the Spa."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves the gym section of the Spa, heads home to his room."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Leaves his house to stand by the dog kennel."
+        },
+        {
+          "time": "7:30 PM",
+          "location": "Goes back inside his house and stands in the entryway."
+        },
+        {
+          "time": "9:00 PM",
+          "location": "Goes back to his bedroom and stands by his dresser."
+        },
+        {
+          "time": "10:40 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Spring 15",
+      "entries": [
+        {
+          "time": "8:00 AM",
+          "location": "Leaves farm to attend the Desert Festival and stand by the chef stand."
+        },
+        {
+          "time": "12:40 AM",
+          "location": "Heads back to farm."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Green Rain (Year 1)",
+      "entries": [
+        {
+          "time": "6:10 AM",
+          "location": "Leaves home to walk to his grandparents' house and stand in the kitchen."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Monday",
+      "entries": [
+        {
+          "time": "8:30 AM",
+          "location": "Leaves farm to visit his grandparents."
+        },
+        {
+          "time": "6:00 PM",
+          "location": "Heads back to farm."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Goes to bed."
+        }
+      ]
+    },
+    {
+      "label": "Marriage → Sunday (Alex's 14-heart event seen)",
+      "entries": [
+        {
+          "time": "8:30 AM",
+          "location": "Leaves farm to go stand beneath a tree by his grandparent's house."
+        },
+        {
+          "time": "11:00 AM",
+          "location": "Goes to the back room of the Stardrop Saloon."
+        },
+        {
+          "time": "3:00 PM",
+          "location": "Leaves to stand by the dog kennel."
+        },
+        {
+          "time": "6:30 PM",
+          "location": "Goes inside of his grandparent's house and stands in the entryway."
+        },
+        {
+          "time": "8:00 PM",
+          "location": "Goes to stand inside of his room."
+        },
+        {
+          "time": "10:00 PM",
+          "location": "Leaves for the Farmhouse."
+        }
+      ]
+    }
+  ]
+}

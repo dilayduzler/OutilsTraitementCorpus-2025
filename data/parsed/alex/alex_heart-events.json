@@ -1,0 +1,75 @@
+{
+  "title": "alex",
+  "heart_events": [
+    {
+      "hearts": "Two Hearts",
+      "condition": "On a sunnySummerday, visitthe Beachwhen Alex is there.",
+      "details": [
+        "You see Alex with his gridball. He greets you and tries to toss you the gridball. You fail to catch it. He laughs and says it was a nice try. He goes on to tell you he's sure that he's going to become the first professional gridball player from Stardew Valley. He asks you what you think his chances are. \"I believe in you!\" (No effect on friendship .) Alex thanks you for your support and says that he'll remember it. \"Wow, you're really arrogant.\" (No effect on friendship .) Alex says you're just a little jealous and leaves."
+      ],
+      "choices": [
+        "\"I believe in you!\"(No effect onfriendship.)Alex thanks you for your support and says that he'll remember it.",
+        "\"Wow, you're really arrogant.\"(No effect onfriendship.)Alex says you're just a little jealous and leaves."
+      ]
+    },
+    {
+      "hearts": "Four Hearts",
+      "condition": "Enter town between 9am and 4pm.",
+      "details": [
+        "Alex is next to the dog pen near his home. He's talking to the dog, whose name is revealed as Dusty . He comments that both he and the dog have been through a lot and that he feels misunderstood. You come out from behind the Saloon , and Alex asks if you heard any of that. \"Yes, I heard everything.\" (No effect on friendship .) \"Not really... why?\" (No effect on friendship .) Either way, he says the reason that he lives with his grandparents is because of his dad. His dad was an alcoholic and would verbally abuse Alex, calling him \"worthless\". One day, his dad left, and shortly after that, his mother got sick and passed away. Alex goes on to say that he shouldn't dwell on it and doesn't need sympathy. Trying to lighten the mood, Alex offers you the opportunity to see what Dusty will do for a barbecued steak."
+      ],
+      "choices": [
+        "\"Yes, I heard everything.\"(No effect onfriendship.)",
+        "\"Not really... why?\"(No effect onfriendship.)"
+      ]
+    },
+    {
+      "hearts": "Six Hearts",
+      "condition": "Enter Alex's house when he's there.",
+      "details": [
+        "Alex expresses doubt about being able to go pro as a gridball player. He apologizes to you for acting rude and arrogant and appreciates how you stuck with him despite all that. You provide some encouragement (no choices necessary), and Alex will return to his strength workout with renewed vigor."
+      ],
+      "choices": []
+    },
+    {
+      "hearts": "Eight Hearts",
+      "condition": "On a sunny day, visitthe Beachwhen Alex is there. He is only scheduled to go to the beach inSummer, but may pass by on the way to theGinger Island resortin any season after it is completed.",
+      "details": [
+        "Alex is sitting on the beach crying. You approach him and sit down next to him. He says today is the day that his mother died 12 years ago. He regrets not being able to thank her for taking care of him when he was a kid. The only keepsake he has left is his mother's music box. Alex opens it and plays it for the both of you. As the music plays, you see a vision of Alex's mother happily cradling baby Alex in her arms. As the music fades, he asks what you're thinking. \"Honor your mother's memory by always doing your best.\" (No effect on friendship .) Alex agrees and says that's why he's working so hard to be a professional gridball player. \"You shouldn't dwell in the past.\" (No effect on friendship .) \"I'll always be here for you if you get lonely.\" (No effect on friendship .) Alex thanks you and bashfully says you're his best friend in the whole town. If male, he says \"You... you're different than other guys. More sensitive. I'm glad.\" \"Get over it. Life is hard for everyone.\" (No effect on friendship .) After calming down, he says the two of you should head back to town. Before you leave, he nervously asks you not to tell anybody that he was crying. You laugh and walk off while he hurriedly chases after you."
+      ],
+      "choices": [
+        "\"Honor your mother's memory by always doing your best.\"(No effect onfriendship.)Alex agrees and says that's why he's working so hard to be a professional gridball player.",
+        "\"You shouldn't dwell in the past.\"(No effect onfriendship.)",
+        "\"I'll always be here for you if you get lonely.\"(No effect onfriendship.)Alex thanks you and bashfully says you're his best friend in the whole town. If male, he says \"You... you're different than other guys. More sensitive. I'm glad.\"",
+        "\"Get over it. Life is hard for everyone.\"(No effect onfriendship.)"
+      ]
+    },
+    {
+      "hearts": "Ten Hearts",
+      "condition": "Alex will send you a letter to meet him atthe Saloonafter dark. After receiving the letter, enterthe Saloonbetween 7pm and 10pm.",
+      "details": [
+        "Alex reserves a private room for your dinner date. Gus plays the violin for you two, and Emily will bring in your food. If the player is female, Alex confesses that he has had a crush on you since the two of you first met, and although his crushes in the past faded away quickly, his feelings for you kept growing. If the player is male, Alex confesses that he has been drawn to you since the two of you first met; although he denied these feelings at first, he's now decided to follow his heart. \"I feel the same way.\" (No effect on friendship .) Alex is elated that the both of you were finally able to admit your feelings to each other. He happily digs into his steak. Dusty suddenly bursts through the window, salivating at the smell of food. Alex laughs. \"I'm sorry... I don't feel that way about you.\" (No effect on friendship .) Alex is crushed and apologizes for making you uncomfortable. He loses his appetite."
+      ],
+      "choices": [
+        "\"I feel the same way.\"(No effect onfriendship.)Alex is elated that the both of you were finally able to admit your feelings to each other. He happily digs into his steak.Dustysuddenly bursts through the window, salivating at the smell of food. Alex laughs.",
+        "\"I'm sorry... I don't feel that way about you.\"(No effect onfriendship.)Alex is crushed and apologizes for making you uncomfortable. He loses his appetite."
+      ]
+    },
+    {
+      "hearts": "Group Ten-Heart Event",
+      "condition": "If the player is unmarried and has given a bouquet to all available bachelors, raisedfriendshipwith each bachelor to 10 hearts, and seen each bachelor's 10-heart event, then enteringThe Stardrop Saloonwill trigger a cutscene. IfAlexis the final bachelor you share a Ten-Heart Event with, the Group Ten-Heart Event will be unavoidable as it is triggered immediately afterwards.",
+      "details": [
+        "If the player has a Rabbit's Foot in inventory, the cutscene will consist of a friendly game of pool. If the player does not have a Rabbit's Foot in inventory, all bachelors will express anger about the player dating them all at one time.  Regardless of the player's dialogue choice(s), all bachelors will decide to give the player the \"cold shoulder\" for about a week after the event.  They will give angry dialogue when interacted with, and refuse gifts.  After about a week, all bachelors will forgive the player, and dialogues return to normal."
+      ],
+      "choices": []
+    },
+    {
+      "hearts": "Fourteen Hearts",
+      "condition": "Exit theFarmhousein year 2+ between 6am and 8:20am on any day other than Sunday.  You must havedata-sort-value=\"5000\">5,000gavailable.",
+      "details": [
+        "Alex will stop you and ask for data-sort-value=\"5000\"> 5,000g for a 'secret project'. If you accept, he will remark that it will be ready to be seen on Sunday. Part 2 can be triggered by entering the Saloon the following Sunday. Alex, Kent , Shane , George , and Gus can be seen watching a gridball game in the backroom, half of which has been decorated with gridball memorabilia and a TV. The other half still has barrels, and storage. The player walks in, and Alex tells the player that although his dream of going pro may not have been realised (though he assures the farmer that he's happy with his life now), this is a small way of realising it. Kent adds that it takes his mind off things, and Shane agrees. Gus tells the player that watching the game is good for business, too. The cutscene ends with the player saying that the guys have a new tradition now and that the data-sort-value=\"5000\"> 5,000g was well spent."
+      ],
+      "choices": []
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "alex",
+  "gifts": {
+    "love": [
+      {
+        "name": "Complete Breakfast",
+        "description": "You'll feel ready to take on the world!",
+        "source": "Cooking"
+      },
+      {
+        "name": "Jack Be Nimble, Jack Be Thick",
+        "description": "Gain +1 Defense.",
+        "source": "Books"
+      },
+      {
+        "name": "Salmon Dinner",
+        "description": "The lemon spritz makes it special.",
+        "source": "Cooking"
+      }
+    ],
+    "like": [
+      {
+        "name": "Dinosaur Egg",
+        "description": "A giant dino egg... The entire shell is still intact!",
+        "source": "Artifacts"
+      },
+      {
+        "name": "Field Snack",
+        "description": "A quick snack to fuel the hungry forager.",
+        "source": "Crafting"
+      },
+      {
+        "name": "Parrot Egg",
+        "description": "Summons a level X parrot companion, who grants you a Y chance to find gold coins when slaying monsters.",
+        "source": "Trinkets"
+      }
+    ],
+    "neutral": [
+      {
+        "name": "Chanterelle",
+        "description": "A tasty mushroom with a fruity smell and slightly peppery flavor.",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Common Mushroom",
+        "description": "Slightly nutty, with good texture.",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Daffodil",
+        "description": "A traditional spring flower that makes a nice gift.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Dandelion",
+        "description": "Not the prettiest flower, but the leaves make a good salad.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Frog Egg",
+        "description": "Summons a hungry frog companion.",
+        "source": "Trinkets"
+      },
+      {
+        "name": "Ginger",
+        "description": "This sharp, spicy root is said to increase vitality.",
+        "source": "Foraging - Ginger Island"
+      },
+      {
+        "name": "Hazelnut",
+        "description": "That's one big hazelnut!",
+        "source": "Foraging - Fall"
+      },
+      {
+        "name": "Leek",
+        "description": "A tasty relative of the onion.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Magma Cap",
+        "description": "A very rare mushroom that lives next to pools of lava.",
+        "source": "Foraging - Volcano Dungeon"
+      },
+      {
+        "name": "Morel",
+        "description": "Sought after for its unique nutty flavor.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Purple Mushroom",
+        "description": "A rare mushroom found deep in caves.",
+        "source": "Foraging - The Mines"
+      },
+      {
+        "name": "Snow Yam",
+        "description": "This little yam was hiding beneath the snow.",
+        "source": "Tilling - Winter"
+      },
+      {
+        "name": "Winter Root",
+        "description": "A starchy tuber.",
+        "source": "Tilling - Winter"
+      }
+    ],
+    "dislike": [
+      {
+        "name": "Salmonberry",
+        "description": "A spring-time berry with the flavor of the forest.",
+        "source": "Foraging - Spring"
+      },
+      {
+        "name": "Wild Horseradish",
+        "description": "A spicy root found in the spring.",
+        "source": "Foraging - Spring"
+      }
+    ],
+    "hate": [
+      {
+        "name": "Holly",
+        "description": "The leaves and bright red berries make a popular winter decoration.",
+        "source": "Foraging - Winter"
+      },
+      {
+        "name": "Quartz",
+        "description": "A clear crystal commonly found in caves and mines.",
+        "source": "Foraging - The Mines"
+      }
+    ]
+  }
+}
